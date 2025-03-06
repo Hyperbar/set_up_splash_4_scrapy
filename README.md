@@ -1,7 +1,9 @@
 # set_up_splash_4_scrapy
-Set up of splash scrapy docker
 
-Dans ce cas, voici ce que tu dois faire :  
+Check this tutorial https://www.youtube.com/watch?v=8q2K41QC2nQ
+after set up from tutotriel you can open on browser via http://localhost:8050/
+
+Or follow this 
 
 ### 1. **Installer et exécuter Splash avec Docker**  
 Exécute ces commandes :  
